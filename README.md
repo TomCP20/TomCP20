@@ -4,6 +4,8 @@ I am a graduate of UEA's computer science course looking for a Software develope
 
 I am a keen programmer with a strong mathematical background and a good grounding in the fundamentals of computer science. My university degree course has given me a solid grounding in a broad range of programming environments and techniques. I enjoy applying my mathematical skills to understanding how things work and my software engineering skills to create solutions to real problems. I want to pursue a career in the exciting and rapidly developing field of software development. This is an ambition I have had since the age of 12 when I started learning Python on a Raspberry Pi.
 
+You can view my portfolio of past projects [here](https://tomcp20.github.io/).
+
 # Skills
 
 ## Languages
